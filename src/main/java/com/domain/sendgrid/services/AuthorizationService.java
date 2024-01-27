@@ -1,9 +1,6 @@
-package com.domain.estoque.services;
+package com.domain.sendgrid.services;
 
-import com.domain.estoque.dto.RegisterDTO;
-import com.domain.estoque.entities.User;
-import com.domain.estoque.enums.UserRole;
-import com.domain.estoque.repositories.UserRepository;
+import com.domain.sendgrid.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

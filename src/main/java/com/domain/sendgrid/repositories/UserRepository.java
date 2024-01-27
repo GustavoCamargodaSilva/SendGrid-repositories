@@ -1,6 +1,6 @@
-package com.domain.estoque.repositories;
+package com.domain.sendgrid.repositories;
 
-import com.domain.estoque.entities.User;
+import com.domain.sendgrid.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 

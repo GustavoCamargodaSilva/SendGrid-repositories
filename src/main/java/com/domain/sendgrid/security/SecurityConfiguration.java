@@ -1,4 +1,4 @@
-package com.domain.estoque.security;
+package com.domain.sendgrid.security;
 
 import org.springframework.boot.autoconfigure.security.servlet.PathRequest;
 import org.springframework.context.annotation.Bean;

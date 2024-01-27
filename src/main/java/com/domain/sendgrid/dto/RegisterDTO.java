@@ -1,6 +1,6 @@
-package com.domain.estoque.dto;
+package com.domain.sendgrid.dto;
 
-import com.domain.estoque.enums.UserRole;
+import com.domain.sendgrid.enums.UserRole;
 
 public record RegisterDTO(String email, String password, UserRole role) {
 }

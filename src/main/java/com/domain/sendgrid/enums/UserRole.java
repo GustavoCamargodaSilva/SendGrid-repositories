@@ -1,11 +1,4 @@
-package com.domain.estoque.enums;
-
-import com.domain.estoque.entities.User;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.domain.sendgrid.enums;
 
 public enum UserRole {
     ADMIN("admin"),

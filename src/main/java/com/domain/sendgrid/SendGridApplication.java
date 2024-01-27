@@ -1,13 +1,13 @@
-package com.domain.estoque;
+package com.domain.sendgrid;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EstoqueApplication {
+public class SendGridApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EstoqueApplication.class, args);
+		SpringApplication.run(SendGridApplication.class, args);
 	}
 
 }

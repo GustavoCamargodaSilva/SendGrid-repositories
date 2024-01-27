@@ -1,6 +1,6 @@
-package com.domain.estoque.entities;
+package com.domain.sendgrid.entities;
 
-import com.domain.estoque.enums.UserRole;
+import com.domain.sendgrid.enums.UserRole;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
